@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hi, my name is Ilyas Hassan and I’m interested in data analytics, learn the programmes in R, SQL, Power Bi and Tableau, currently looking for apprenticeship in Data Anaylisist or a job.
 <!--
 **IlyasHassan1/IlyasHassan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
