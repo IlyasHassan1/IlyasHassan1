@@ -1,2 +1,2 @@
 ### Hi there 👋
-Hi, my name is Ilyas Hassan and I’m interested in data analytics, learn the programmes in R, SQL, Power Bi and Tableau, currently looking for apprenticeship in Data Anaylisist or a job.
+Hi, my name is Ilyas Hassan and I’m interested in data analytics, I learned the tools needed to become one such as  R, SQL, Power Bi and Tableau. I am currently looking to become a Data Analyst and hopefully progress into a Data Scientist
