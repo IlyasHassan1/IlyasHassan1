@@ -1,5 +1,5 @@
 ### Ilyas-Hassan👋
-Hi, my name is Ilyas Hassan and I’m interested in data analytics, I learned the tools needed to become one such as Microsoft Excel, SQL, Power Bi, Tableau, R, Python and Azure. I am currently looking to secure employment as a Data Analyst.
+Hi, my name is Ilyas Hassan and I have a keen interested in data analytics, I learned the tools needed to become one such as Microsoft Excel, SQL, Power Bi, Tableau, R, Python and Azure. I am currently looking to secure employment as a Data Analyst.
 
 Please contact me in the following links: ilyashassan2002@hotmail.com || [![Linkedin](https://i.stack.imgur.com/gVE0j.png) IlyasHassan](https://www.linkedin.com/in/ilyashassan2002/)
 &nbsp;
