@@ -1,12 +1,48 @@
-### Ilyas-Hassan👋
-Hi, my name is Ilyas Hassan and I have a keen interested in data analytics, I learned the tools needed to become one such as Microsoft Excel, SQL, Power Bi, Tableau, R, Python and Azure. I am currently looking to secure employment as a Data Analyst.
+<h1 align="center"> Hi There! I am an Aspiring Data Analyst 👋 </h1> </div>
+<b>Hi, My name is Ilyas Hassan. I am a future data analyst.<b>
 
-Please contact me in the following links: ilyashassan2002@hotmail.com || [![Linkedin](https://i.stack.imgur.com/gVE0j.png) IlyasHassan](https://www.linkedin.com/in/ilyashassan2002/)
-&nbsp;
+<p></p>
+<div align="center"> <h1 align="center" <di > :nerd_face:	 DATA ANALYSIS TOOLS :nerd_face: </h1> </div>
 
-### Technologies
+<b>I have experience using these data analysis tools.<b>
+<p align="center">
+<a href="https://www.w3schools.com/" onclick="window.open("https://www.w3schools.com/", "_self");"> <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="85"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png" alt="Azure" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R" height="60"/> </a>
 
-![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/15aab6ce-9bd1-47cf-b42f-392c4a68ebd8) ![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/918f9a61-bfc2-45f4-a3ff-f1589d1b46eb) ![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/f37a3db7-2516-461d-b725-530a85a7c965) ![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/9d13413c-b271-40d5-80c4-b2647acc2841) ![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/93bc3524-28aa-4321-a3c3-cf74602ce0c8) ![image](https://github.com/IlyasHassan1/IlyasHassan1/assets/156099554/b8d9a018-cc6e-4a7e-9a29-4d935812ec71) 
+</p>
+
+<div align="center"> <h1 align="center"> :slightly_smiling_face: DATA VISUALIZATION :slightly_smiling_face:	</h1> </div>
+
+<b>I have also experience using these data visualization tools.<b>
+
+<p align="center">
+<a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" alt="Matplotlib" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://github.com/yusufsjustit/yusufsjustit/assets/125282550/9005adc8-3771-428e-84b5-dfb116ae45b9" alt="Tableau" height="60"/> </a>
+<a href="#" target="_blank"> <img src="https://insightsoftware.com/wp-content/uploads/2018/03/blog-microsoft-power-bi-solid-color.jpg" alt="Microsoft Power BI" height="60"/> </a>
+</p>
+
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
+<b>Lets connect</b>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ilyashassan2002/"> 
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href=" https://public.tableau.com/app/profile/ilyas.22/vizzes">
+  <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
+</a>
+
+<a href="mailto: ilyashassan2002@hotmail.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red"  />
+</a>
+
+</p>
 
 
 
